@@ -1,0 +1,10 @@
+frac,impl,rows,median_min
+0.1,pandas,1668916,0.78
+0.1,spark_naive,1668916,20.89
+0.1,spark_tuned,1668916,2.5
+0.5,pandas,8250663,1.01
+0.5,spark_naive,8250663,22.71
+0.5,spark_tuned,8250663,3.12
+1.0,pandas,16387449,1.55
+1.0,spark_naive,16387449,27.43
+1.0,spark_tuned,16387449,3.59
